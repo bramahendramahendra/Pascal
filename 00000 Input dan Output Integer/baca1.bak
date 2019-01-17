@@ -1,0 +1,11 @@
+program baca1;
+uses Crt;
+var
+        a : integer;
+
+begin
+        writeln('contoh memmbaca dan menulis, ketik nilai integer');
+        readln(a);
+        writeln('nilai yang dibaca : ',a);
+        readln;
+end.
