@@ -1,0 +1,19 @@
+program asign;
+
+uses crt;
+
+var
+        x,y:integer;
+        z:string;
+
+BEGIN
+        clrscr;
+
+        x:=100;
+        y:=500;
+        z:='brama';
+        writeln(' Nilai x : ',x);
+
+        readln;
+END.
+
